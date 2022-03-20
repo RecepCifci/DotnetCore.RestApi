@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\Hepsiburada.RestApi.Business.deps.json
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\Hepsiburada.RestApi.Business.dll
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\ref\Hepsiburada.RestApi.Business.dll
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\Hepsiburada.RestApi.Business.pdb
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.dll
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\ref\Hepsiburada.RestApi.Business.dll
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.pdb
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\Hepsiburada.RestApi.DataAccess.dll
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\bin\Debug\net5.0\Hepsiburada.RestApi.DataAccess.pdb
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Business\obj\Debug\net5.0\Hepsiburada.RestApi.Business.csproj.CopyComplete

@@ -13,11 +13,11 @@ namespace Hepsiburada.RestApi.Business.Concrete
 {
     public class ProductService : IProductService
     {
-        private readonly IProductRepository _service;
+        private readonly IProductRepository _repository;
         private readonly RedisCache<Product> _redisCache;
-        public ProductService(IProductRepository service, RedisCache<Product> redisCache)
+        public ProductService(IProductRepository repository, RedisCache<Product> redisCache)
         {
-            _service = service;
+            _repository = repository;
             _redisCache = redisCache;
         }
         public async Task<Product> Get(string id)
@@ -27,25 +27,24 @@ namespace Hepsiburada.RestApi.Business.Concrete
             if (productFromRedis is not null)
                 return JsonConvert.DeserializeObject<Product>(productFromRedis);
 
-            var product = await _service.Get(id);
+            var product = await _repository.Get(id);
 
-            if (product is null) throw new Exception("Not Found");
-
-            await _redisCache.SetData(product, product.Id);
+            if (product is not null)
+                await _redisCache.SetData(product, product.Id);
 
             return product;
         }
         public async Task Post(Product Product)
         {
-            await _service.Post(Product);
+            await _repository.Post(Product);
         }
         public async Task<bool> Put(string id, Product Product)
         {
-            return await _service.Put(id, Product);
+            return await _repository.Put(id, Product);
         }
         public async Task<bool> Delete(string id)
         {
-            return await _service.Delete(id);
+            return await _repository.Delete(id);
         }
     }
 }

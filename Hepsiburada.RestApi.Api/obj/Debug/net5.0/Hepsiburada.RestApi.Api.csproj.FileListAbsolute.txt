@@ -66,3 +66,4 @@ C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Api\bin\Deb
 C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Api\bin\Debug\net5.0\Hepsiburada.RestApi.Models.dll
 C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Api\bin\Debug\net5.0\Hepsiburada.RestApi.Models.pdb
+C:\Users\Lenovo\source\repos\Hepsiburada.RestApi\Hepsiburada.RestApi.Api\bin\Debug\net5.0\FluentValidation.dll

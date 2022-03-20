@@ -13,9 +13,7 @@ namespace Hepsiburada.RestApi.DataAccess.Model
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        [Required]
         public string Id { get; set; }
-        [Required]
         [BsonElement("name")]
         public string Name { get; set; }
         [BsonElement("description")]

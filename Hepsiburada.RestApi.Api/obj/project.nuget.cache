@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6ELTzhEcocvQeWZlG56VGnO5HwHwaq9RC0WqeRc+O64uXFsJE64QoTGZoMh3YNkXeWDLRPmun0EBVsZP/PvVVw==",
+  "dgSpecHash": "sJBwopyC3MVUr9gNIcSV/eCqgbVXlI6F8suw5Ps+PHai3GZYAMQdLFOLtmrXA9p2GVC4p/+c1CV81jCqe1Qb6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Hepsiburada.RestApi\\Hepsiburada.RestApi.Api\\Hepsiburada.RestApi.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",

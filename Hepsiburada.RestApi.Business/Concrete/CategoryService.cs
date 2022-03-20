@@ -13,26 +13,26 @@ namespace Hepsiburada.RestApi.Business.Concrete
 {
     public class CategoryService : ICategoryService
     {
-        private readonly ICategoryRepository _service;
-        public CategoryService(ICategoryRepository service)
+        private readonly ICategoryRepository _repository;
+        public CategoryService(ICategoryRepository repository)
         {
-            _service = service;
+            _repository = repository;
         }
         public async Task<Category> Get(string id)
         {
-            return await _service.Get(id);
+            return await _repository.Get(id);
         }
         public async Task Post(Category category)
         {
-            await _service.Post(category);
+            await _repository.Post(category);
         }
         public async Task<bool> Put(string id, Category category)
         {
-            return await _service.Put(id, category);
+            return await _repository.Put(id, category);
         }
         public async Task<bool> Delete(string id)
         {
-            return await _service.Delete(id);
+            return await _repository.Delete(id);
         }
     }
 }

@@ -1327,11 +1327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\Hepsiburada.RestApi.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\Hepsiburada.RestApi.DataAccess.csproj",
       "projectName": "Hepsiburada.RestApi.DataAccess",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\Hepsiburada.RestApi.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\Hepsiburada.RestApi.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Hepsiburada.RestApi\\Hepsiburada.RestApi.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

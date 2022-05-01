@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJBwopyC3MVUr9gNIcSV/eCqgbVXlI6F8suw5Ps+PHai3GZYAMQdLFOLtmrXA9p2GVC4p/+c1CV81jCqe1Qb6w==",
+  "dgSpecHash": "XpAqUkskTnuQaCW6rPjH4nOKoI0+TonozLOKVZIsBF0uzr/2mzoFeS0jHytEKxdx/AbrZlYLe7tZ9dFtVwbIVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Hepsiburada.RestApi\\Hepsiburada.RestApi.Api\\Hepsiburada.RestApi.Api.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Hepsiburada.RestApi\\Hepsiburada.RestApi.Api\\Hepsiburada.RestApi.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

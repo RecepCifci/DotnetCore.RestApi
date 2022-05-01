@@ -1,4 +1,4 @@
-# Hepsiburada.RestApi
+# DotnetCore.RestApi
 # Projenin çalıştırılmadan önce yapılması gerekenler;
  - .Net Framework lerinin kurulumu
  - Visual Studio tool eklentilerinin kurulması (Visual Studio, Visual Studio Code)

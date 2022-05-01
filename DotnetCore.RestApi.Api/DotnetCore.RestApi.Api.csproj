@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotnetCore.RestApi.Business\DotnetCore.RestApi.Business.csproj" />
+    <ProjectReference Include="..\DotnetCore.RestApi.DataAccess\DotnetCore.RestApi.DataAccess.csproj" />
+    <ProjectReference Include="..\DotnetCore.RestApi.Models\DotnetCore.RestApi.Models.csproj" />
+  </ItemGroup>
+
+</Project>
